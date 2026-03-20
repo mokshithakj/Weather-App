@@ -4,7 +4,7 @@
 # 🌦️ Weather App using API
 A simple and responsive weather application that shows current weather and 5-day forecast using user input or GPS location.
 
-![App Screenshot](https://cdn-icons-gif.flaticon.com/17102/17102931.gif)
+![App Screenshot](https://cdn-icons-png.flaticon.com/256/4861/4861699.png)
 
 
 ---
@@ -73,3 +73,4 @@ K J Mokshitha
 ## 📄 License
 
 This project is open-source and available under the MIT License.
+
